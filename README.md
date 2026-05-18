@@ -31,22 +31,6 @@ python 40epochs.py
 ```
 
 ---
-
-## Requirements
-
-* Python 3.9+
-* PyTorch
-* torchvision
-* timm
-* scikit-learn
-* OpenCV
-* NumPy
-* Matplotlib
-* Pillow
-
----
-
-
 ## License
 
 This project is intended for academic and research purposes.
